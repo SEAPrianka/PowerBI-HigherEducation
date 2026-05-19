@@ -1,1 +1,1 @@
-# PowerBI-Higher-Education-
+# PowerBI-HigherEducation
